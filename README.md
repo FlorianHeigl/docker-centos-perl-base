@@ -3,6 +3,8 @@ docker-centos-perl-base
 
 Dockerfile of centos perl base
 
+Buils using perlbrew
+
 LICENSE
 -------
 
